@@ -1,6 +1,13 @@
 # Backward Propogation
 This project includes an excel file and an image to show
 
+PFB the screen shot of the excel file.
+
+![image](https://user-images.githubusercontent.com/52544352/135705751-18dcf62c-08bb-4233-b6e3-7f776c4f8881.png)
+
+![image](https://user-images.githubusercontent.com/52544352/135705765-ac0c34ac-a54b-40b6-881f-2ac818c098a8.png)
+
+
 5. Changes to the error graph when:
   a. Learning rate = 0. 1
   ![image](https://user-images.githubusercontent.com/52544352/135705621-8451f141-153c-48a7-bec0-64999c754260.png)
