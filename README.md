@@ -16,7 +16,7 @@ The major steps in Backpropogation are:
 2. Minimum Error/Calculate the gradients – To minimize errors, we calculate the partial derivates of the Error with respect to all the weights.
 3. Update the parameters – If the error is huge then, update the parameters (only weights are considered in this example) using a defined learning rate. After that again check the error. Repeat the process until the error becomes minimum.
 
-We can see the changes in the error graph with changes in the learning rate. 
+We can see the changes in the error graph with changes in the learning rate. <br/>
   a. Learning rate = 0. 1 <br/>
   ![image](https://user-images.githubusercontent.com/52544352/135705621-8451f141-153c-48a7-bec0-64999c754260.png)
 
