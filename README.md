@@ -4,7 +4,7 @@ Backpropagation is a supervised learning algorithm, for training Multi-layer Per
 
 PFB the screen shot of the excel file.
 
-![image](https://user-images.githubusercontent.com/52544352/135705751-18dcf62c-08bb-4233-b6e3-7f776c4f8881.png)
+![image](https://user-images.githubusercontent.com/52544352/138542366-f02dfcf2-d1e1-4fb9-8528-a352ef59d957.png)
 
 ![image](https://user-images.githubusercontent.com/52544352/135705765-ac0c34ac-a54b-40b6-881f-2ac818c098a8.png)
 
